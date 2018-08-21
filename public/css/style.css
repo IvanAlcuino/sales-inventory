@@ -1,0 +1,40 @@
+img.nav-logo{
+    width: 50px;
+}
+
+main.py-4{
+    min-height: 700px;
+}
+
+.py-4{
+    padding-bottom: 10rem !important;
+}
+
+.navbar-laravel {
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.content table{
+    background-color: #fff;
+}
+
+.card-page{
+    min-height: 700px;
+}
+
+footer {
+    background-color: #658529;
+    border-top: 1px solid black;
+} 
+
+footer img.footer-flower{
+    display:block;
+    margin: -218px auto 0 auto;
+    width:80%;
+
+}
+
+.col-md-2-pd-12{
+    width: 12% !important;
+}
